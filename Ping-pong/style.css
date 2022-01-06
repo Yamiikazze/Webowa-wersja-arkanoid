@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+} 
+
+#left {
+    font-family: 'Roboto', cursive;
+    font-size: 20px;
+}
+
+canvas {
+    border: 3px solid #fff
+}
+
+.red {
+    color: white;
+}
